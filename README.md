@@ -34,3 +34,5 @@ License information
 
 Core functionality**: Main logic implementation
 
+API endpoints**: RESTful API documentation
+
