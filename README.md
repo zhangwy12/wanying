@@ -46,3 +46,5 @@ Basic usage
 
 mainFunction
 
+Configuration options
+
