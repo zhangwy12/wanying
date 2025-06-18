@@ -32,3 +32,5 @@ Contributing guidelines
 
 License information
 
+Core functionality**: Main logic implementation
+
