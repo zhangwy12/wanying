@@ -38,3 +38,5 @@ API endpoints**: RESTful API documentation
 
 Error handling**: Comprehensive error management
 
+Table of Contents
+
