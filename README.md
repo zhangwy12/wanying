@@ -58,3 +58,5 @@ Performance metrics
 
 Security considerations
 
+Contributing guidelines
+
