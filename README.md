@@ -50,3 +50,5 @@ Configuration options
 
 Dependencies
 
+Examples
+
