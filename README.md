@@ -30,3 +30,5 @@ Security considerations
 
 Contributing guidelines
 
+License information
+
