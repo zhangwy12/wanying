@@ -20,3 +20,5 @@ Configuration options
 
 Dependencies
 
+Examples
+
