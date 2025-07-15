@@ -6,3 +6,5 @@ Core functionality**: Main logic implementation
 
 API endpoints**: RESTful API documentation
 
+Error handling**: Comprehensive error management
+
