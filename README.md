@@ -4,3 +4,5 @@ Basic setup**: Project initialization and configuration
 
 Core functionality**: Main logic implementation
 
+API endpoints**: RESTful API documentation
+
