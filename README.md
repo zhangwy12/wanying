@@ -14,3 +14,5 @@ javascript
 
 Basic usage
 
+mainFunction
+
