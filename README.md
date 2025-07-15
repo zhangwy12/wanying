@@ -24,3 +24,5 @@ Examples
 
 Testing
 
+Performance metrics
+
